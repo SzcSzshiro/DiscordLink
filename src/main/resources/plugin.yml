@@ -1,0 +1,6 @@
+name: DiscordLink
+version: 1.0.0
+main: io.papermc.discordlink.Main
+description: plugin for discord bot.
+author: SZK
+api-version: '1.20'
